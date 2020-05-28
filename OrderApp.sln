@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApp", "OrderApp.csproj", "{13B31DF5-D755-4824-AEDC-3B7ED6F4F014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B31DF5-D755-4824-AEDC-3B7ED6F4F014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B31DF5-D755-4824-AEDC-3B7ED6F4F014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B31DF5-D755-4824-AEDC-3B7ED6F4F014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B31DF5-D755-4824-AEDC-3B7ED6F4F014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CA63A0-CE17-4DA9-837B-AC60CC7A1D9F}
+	EndGlobalSection
+EndGlobal
